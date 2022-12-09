@@ -1,0 +1,10 @@
+h1{
+    background-color: rgb(3, 160, 223);
+    color: black;
+    border-color: black;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px black;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
